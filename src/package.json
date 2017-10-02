@@ -1,12 +1,8 @@
 {
-    "name": "vsts-queue-build-task",
-    "version": "1.2.0",
+    "name": "vsts-queue-build-task-internal",
+    "version": "1.2.6",
     "description": "",
     "scripts": {},
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/bamminger/vsts-queue-build"
-    },
     "devDependencies": {},
     "dependencies": {
         "vsts-task-lib": "2.0.5",

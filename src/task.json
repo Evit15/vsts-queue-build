@@ -1,15 +1,15 @@
 {
     "id": "025bc3d2-c942-42d2-9b76-97db7e884483",
-    "name": "queue-build",
-    "friendlyName": "Queue Build(s)",
+    "name": "queue-build-internal",
+    "friendlyName": "Queue Build(s) (Internal)",
     "description": "Start new build(s) in your Team Project",
     "helpMarkDown": "",
     "category": "Utility",
-    "author": "jb",
+    "author": "Evit15",
     "version": {
         "Major": 1,
         "Minor": 2,
-        "Patch": 4
+        "Patch": 21
     },
     "instanceNameFormat": "Queue build(s) $(buildDefinitionName)",
     "groups": [
