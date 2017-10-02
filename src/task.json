@@ -1,7 +1,7 @@
 {
-    "id": "025bc3d2-c942-42d2-9b76-97db7e884483",
-    "name": "queue-build-internal",
-    "friendlyName": "Queue Build(s) (Internal)",
+    "id": "9ffa10af-58d9-40fc-a9b2-3dab9975a2de",
+    "name": "queue-build-internal-lg",
+    "friendlyName": "Queue Build(s) (Internal LG)",
     "description": "Start new build(s) in your Team Project",
     "helpMarkDown": "",
     "category": "Utility",
@@ -9,7 +9,7 @@
     "version": {
         "Major": 1,
         "Minor": 2,
-        "Patch": 21
+        "Patch": 25
     },
     "instanceNameFormat": "Queue build(s) $(buildDefinitionName)",
     "groups": [
